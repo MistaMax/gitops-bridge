@@ -4,7 +4,7 @@ metadata:
   name: game-2048
 spec: {}
 ---
-apiVersion: apps/v1
+apiVerson: apps/v1
 kind: Deployment
 metadata:
   namespace: game-2048
